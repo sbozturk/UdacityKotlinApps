@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Buğra Öztürk</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="done">Done</string>
+    <string name="bio">Hi, my name is Buğra.
+\n\nLorem ipsum dolor sit amet,
+\n\nconsectetur adipiscing elit.
+\nPraesent ut egestas ante.
+\n\nEtiam dictum tempor eros,
+\neget mattis sapien luctus at.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+</resources>
